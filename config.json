@@ -1,0 +1,21 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/codingsolution",
+        "prod_uri":"mysql://root:@localhost/codingsolution",
+        "fb_url":"https://facebook.com/codingsolution",
+        "tw_url":"https://twitter.com/codingsolution",
+        "gh_url":"https://github.com/codingsolution",
+        "blog_name":"Coding Solution",
+        "tag_line":"A Blog liked by Programmers",
+        "gmail-user":"cnayana534@gmail.com",
+        "gmail-password":"Nayanachavan07",
+        "about_text": "Hi my name is Nayana and I create program and I am a good girl",
+        "no_of_posts": 2,
+        "login_image":"login.svg",
+        "admin_user":"nayana",
+        "admin_password": "nayana07",
+        "upload_location":"C:\\Users\\DELL\\Desktop\\nayana\\flask\\static"
+    }
+}
